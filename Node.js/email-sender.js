@@ -1,9 +1,9 @@
 const nodemailer = require('nodemailer');
 
 // Remplacer par les données personelles.
-const senderEmail = 'samba.co93@gmail.com';
-const senderPassword = 'zfwaslqxsddqenmz';
-const recipientEmail = 'tsarr3110@gmail.com';
+const senderEmail = '';
+const senderPassword = '';
+const recipientEmail = '';
 
 const transporter = nodemailer.createTransport({
   service: 'gmail',
